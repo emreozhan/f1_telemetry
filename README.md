@@ -5,7 +5,7 @@
 <p align="left">
     Open Telemetry settings broadcast mode in the game
 </p>
-<img src="https://github.com/emreozhan/f1_telemetry/blob/master/my-telemetry-fe/src/gameSettings.png?raw=true" alt="GameSetting" width="100" height="100"/> 
+<img src="https://github.com/emreozhan/f1_telemetry/blob/master/my-telemetry-fe/src/gameSettings.png?raw=true" alt="GameSetting"/> 
 
 
 Start Backend app
@@ -26,7 +26,7 @@ cd my-telemetry-fe
 yarn run start
 ```
 
-<img src="https://github.com/emreozhan/f1_telemetry/blob/master/my-telemetry-fe/src/telemetryV1.png?raw=true" alt="Dashboard" width="100" height="100"/> 
+<img src="https://github.com/emreozhan/f1_telemetry/blob/master/my-telemetry-fe/src/telemetryV1.png?raw=true" alt="Dashboard"/> 
 
 
 <h3 align="left">Languages and Tools:</h3>
